@@ -1,0 +1,4 @@
+name: Dmitry
+age: 20
+number of pets: 0
+wishful salary: 1666
