@@ -1,0 +1,6 @@
+ favourites:
+ film: The Gentlemen,
+ serial: Friends,
+ food: shrimps,
+ the weather: winter,
+ country what wants to visit: China
